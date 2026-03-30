@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">SkySnap</string>
+
+    <!-- WeatherScreen -->
+    <string name="error_dialog_title">Error</string>
+    <string name="ok">OK</string>
+    <string name="refresh">Refresh</string>
+    <string name="weather_forecast_title">SkySnap</string>
+    <string name="enter_city_name">Enter city name</string>
+    <string name="search">Search</string>
+    <string name="showing_offline_data">Showing offline data</string>
+    <string name="forecast_title">3-Day Forecast for %1$s</string>
+    <string name="empty_state_message">🌍 Search for a city to see the weather forecast</string>
+    <string name="weather_icon">weather icon</string>
+    <string name="temperature_max">↑ %1$s°C</string>
+    <string name="temperature_min">↓ %1$s°C</string>
+    <string name="back_online">Back online</string>
+    <string name="no_internet_connection">No internet connection</string>
+
+    <!-- Error messages -->
+    <string name="error_empty_city">Please enter a city name</string>
+    <string name="error_city_not_found">The entered location \"%1$s\" doesn\'t exist</string>
+    <string name="error_city_not_found_generic">The entered location doesn\'t exist</string>
+    <string name="error_no_offline_data">No offline data found for this location. Please check your internet connection and try again.</string>
+    <string name="error_no_forecast_data">No forecast data available</string>
+
+    <!-- Weather conditions -->
+    <string name="weather_clear_sky">Clear Sky</string>
+    <string name="weather_mainly_clear">Mainly Clear</string>
+    <string name="weather_partly_cloudy">Partly Cloudy</string>
+    <string name="weather_overcast">Overcast</string>
+    <string name="weather_foggy">Foggy</string>
+    <string name="weather_drizzle">Drizzle</string>
+    <string name="weather_freezing_drizzle">Freezing Drizzle</string>
+    <string name="weather_rainy">Rainy</string>
+    <string name="weather_freezing_rain">Freezing Rain</string>
+    <string name="weather_snowy">Snowy</string>
+    <string name="weather_snow_grains">Snow Grains</string>
+    <string name="weather_rain_showers">Rain Showers</string>
+    <string name="weather_snow_showers">Snow Showers</string>
+    <string name="weather_thunderstorm">Thunderstorm</string>
+    <string name="weather_thunderstorm_hail">Thunderstorm with Hail</string>
+    <string name="weather_unknown">Unknown</string>
+</resources>
